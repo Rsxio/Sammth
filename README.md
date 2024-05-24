@@ -1,1 +1,1 @@
-<h2> Hi, I'm Sammth! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Sammth! <img src="[https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnlvOTd0OHRmZW5qaHl5NDczb3FsZDhkd3F6bnE0c3pwYTd2Z3h0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Tqrk0x0Hpzgdjz9t1z/giphy.gif)" width="50"></h2>
