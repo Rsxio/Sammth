@@ -10,7 +10,7 @@ const thai = {
   pronouns: "he" | "him",
   learning: [Javascript, Lua, Rust, Python, Java],
   hobbies: [Gaming, Hiking, Cycling, Traveling, Collecting Letters, Watching Movies],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  tools: ["docker", "node", "git"],
   Favorite Movie: {
                         No.1: " Pulp Fiction ",
                         No.2: " Lucy ",
