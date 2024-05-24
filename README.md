@@ -6,7 +6,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
+const samm = {
   pronouns: "he" | "him",
   learning: [Javascript, Lua, Rust, Python, Java],
   hobbies: [Gaming, Hiking, Cycling, Traveling, Collecting Letters, Watching Movies],
