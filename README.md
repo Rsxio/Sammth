@@ -11,10 +11,10 @@ const thai = {
   learning: [Javascript, Lua, Rust, Python, Java],
   hobbies: [Gaming, Hiking, Cycling, Traveling, Collecting Letters, Watching Movies],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
+  Favorite Movie: {
+                        No.1: " Pulp Fiction ",
+                        No.2: " Lucy ",
+                        No.3: " Avatar "
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
