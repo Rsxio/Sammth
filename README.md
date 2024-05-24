@@ -16,7 +16,7 @@ const thai = {
                         No.2: " Lucy ",
                         No.3: " Avatar "
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "Complete a full marathon in under 3 hours 🏃‍♀️"
 }
 ```
 
