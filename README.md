@@ -11,7 +11,7 @@ const thai = {
   learning: [Javascript, Lua, Rust, Python, Java],
   hobbies: [Gaming, Hiking, Cycling, Traveling, Collecting Letters, Watching Movies],
   tools: ["docker", "node", "git"],
-  Favorite Movie: {
+  Favorite Movies: {
                         No.1: " Pulp Fiction ",
                         No.2: " Lucy ",
                         No.3: " Avatar "
